@@ -1,0 +1,28 @@
+
+
+.selection input {
+    margin: 10px 15px 10px 0;
+ 
+}
+
+label {
+    text-transform: capitalize;
+    color: #5379b5;
+}
+
+body{
+background-color: cornsilk;
+}
+
+button{
+    color: #5379b5;
+}
+
+input{
+    background-color: cornsilk; 
+    border: 1px solid #eb8810;
+}
+
+hr{
+    background-color: #eb8810;
+}

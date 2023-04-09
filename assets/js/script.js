@@ -28,6 +28,10 @@ const ingredients = [
     {
         name: "butter",
         density: 227
+    },
+    {
+        name: "Cocoa Powder",
+        desnsity: 132
     }
 ]
 

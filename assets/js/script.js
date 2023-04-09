@@ -40,6 +40,10 @@ const ingredients = [
     {
         name: "Baking Soda",
         density: 520
+    },
+    {
+        name: "Vegetable Oil",
+        density: 216
     }
 ]
 

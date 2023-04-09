@@ -32,6 +32,14 @@ const ingredients = [
     {
         name: "Cocoa Powder",
         desnsity: 132
+    },
+    {
+        name: "Powdered Sugar",
+        density: 189
+    },
+    {
+        name: "Baking Soda",
+        density: 520
     }
 ]
 

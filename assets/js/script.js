@@ -35,7 +35,7 @@ const ingredients = [
     },
     {
         name: "Powdered Sugar",
-        density: 189
+        density: 111
     },
     {
         name: "Baking Soda",
